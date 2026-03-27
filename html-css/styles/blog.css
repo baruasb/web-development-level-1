@@ -1,0 +1,27 @@
+h3{
+    font-size: 40px;
+    text-decoration: overline;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.blog{
+    margin: 40px;
+    border: 10px  solid tomato;
+    box-shadow: 10px 10px 20px blueviolet;
+}
+.ok{
+    border: 1px solid rgb(18, 101, 196);
+    display: inline-block;
+}
+
+li{
+    display: inline;
+}
+
+.img{
+    height: 500px;
+    background-color: burlywood;
+    background-image: url('../image/ok.jpg');
+    background-size: auto;
+    background-repeat: no-repeat;
+}
